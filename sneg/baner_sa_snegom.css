@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body{
+	text-align: center;
+	background-color: green;
+}
+
+#omotac{
+	float: center;
+	text-align: center;
+	width: 1000px;
+	color: #FFFFFF;
+}
+
+#baner{
+	width: 1000px;
+	height: 300px;
+	text-align: center;
+	background-image: url("3.jpg");
+}
